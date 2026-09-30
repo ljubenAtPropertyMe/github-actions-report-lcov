@@ -1,0 +1,31 @@
+test/changed-files.test.js
+  s_61280aa58a3277::t_1bb1dd3fc8eb82 1-179
+src/main.js
+  s_61280aa58a3277::t_5fa98ecee49020 6,53-61,73,251
+test/format.test.js
+  s_61280aa58a3277::t_a943e0abcda86a 174-180
+src/format.js
+  s_61280aa58a3277::t_10ca27ff11e415 177-178,187-191
+README.md
+  s_61280aa58a3277::t_a75237daa4a287 64-65
+src/changed-files.js
+  s_61280aa58a3277::t_710c89afefc51b 73-78
+  s_61280aa58a3277::t_3826a638d2c25f 1-72,79
+  s_61280aa58a3277::t_0959c49034118f 80-85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "48c5475ddc2788b0d208aef791d360a08eb3981c",
+  "prompts": {},
+  "sessions": {
+    "s_61280aa58a3277": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5f485a23-42b9-4c5a-9579-a955e6e016da",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ljuben Vassilev <ljubenvassilev@propertyme.com>"
+    }
+  }
+}
